@@ -13,10 +13,11 @@ button {
 #result {
   margin-top: 20px;
 }
-.logo {
-  width: 150px;
+#logo {
+  width: 10%;
+  max-width: 80px;
   height: auto;
   display: block;
-  margin: 0 auto; /* centers the image */
+  margin: 0 auto 20px;
 }
 
