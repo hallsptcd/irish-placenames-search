@@ -1,14 +1,14 @@
 {
-  "Bray": {
+  "bray": {
     "irish": "Bré",
     "grammar": "Bré is a direct transliteration. No article is used."
   },
-  "Dublin": {
+  "dublin": {
     "irish": "Baile Átha Cliath",
     "grammar": "Baile (town) + Átha Cliath (of the hurdle ford). Genitive case used in 'Átha'."
   },
-  "Kinsale": {
+  "kinsale": {
     "irish": "Cionn tSáile",
-    "grammar": "Headland of the Sea; 'Cionn' (head, prepositional variant of Ceann) causes urú in 'Sáile' ('salt water' or 'sea'), hence 'tSáile'. This is a noun + genitive noun construction."
+    "grammar": "'Cionn' (head) causes séimhiú in 'Sáile', hence 'tSáile' – an example of eclipsis."
   }
 }
