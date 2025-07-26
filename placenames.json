@@ -1,0 +1,14 @@
+{
+  "Bray": {
+    "irish": "Bré",
+    "grammar": "Bré is a direct transliteration. No article is used."
+  },
+  "Dublin": {
+    "irish": "Baile Átha Cliath",
+    "grammar": "Baile (town) + Átha Cliath (of the hurdle ford). Genitive case used in 'Átha'."
+  },
+  "Kinsale": {
+    "irish": "Cionn tSáile",
+    "grammar": "'Cionn' (head) causes séimhiú in 'Sáile', hence 'tSáile' – an example of eclipsis."
+  }
+}
