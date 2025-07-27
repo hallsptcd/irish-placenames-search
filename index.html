@@ -1,16 +1,26 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <img src="logo.png" alt="Logo" id="logo" />
   <title>Irish Place Name Translator</title>
   <link rel="stylesheet" href="style.css">
+  <style>
+    .content-wrapper {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+      width: 90%;
+    }
+  </style>
 </head>
 <body>
-  <h1 style="color: #28805f; font-family: 'MeathFLF', fantasy; margin-bottom: 5px;">Irish Place Names</h1>
-  <h3 style="color: #28805f; font-family: 'MeathFLF', fantasy; margin-top:5px;">Logainmneacha na hÉireann</h3>
-  <input type="text" id="search" placeholder="Enter English place name..." />
-  <button onclick="searchName()">Translate</button>
-  <div id="result"></div>
+  <div class="content-wrapper">
+    <img src="logo.png" alt="Logo" id="logo" />
+    <h1 style="color: #28805f; font-family: 'MeathFLF', fantasy; margin-bottom: 5px;">Irish Place Names</h1>
+    <h3 style="color: #28805f; font-family: 'MeathFLF', fantasy; margin-top: 5px;">Logainmneacha na hÉireann</h3>
+    <input type="text" id="search" placeholder="Enter English place name..." />
+    <button onclick="searchName()">Translate</button>
+    <div id="result"></div>
+  </div>
 
   <script src="script.js"></script>
 </body>
