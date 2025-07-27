@@ -1,14 +1,14 @@
 {
   "Bray": {
     "irish": "Bré",
-    "grammar": "Bré is a direct transliteration. No article is used."
+    "grammar": "Hill | Bré ("hill", nominative singular, M) is a direct transliteration. Bré may be a variant or fossil form of brí, an old Irish word meaning hill or elevated place."
   },
   "Dublin": {
     "irish": "Baile Átha Cliath",
-    "grammar": "Baile (town) + Átha Cliath (of the hurdle ford). Genitive case used in 'Átha'."
+    "grammar": "Town of the Ford of Hurdles | Baile ("town", nominative singular, M) + Átha ("ford", genitive singular of áth, M) + Cliath ("hurdles", genitive plural of cliath, F)."
   },
   "Kinsale": {
     "irish": "Cionn tSáile",
-    "grammar": "'Cionn' (head) causes séimhiú in 'Sáile', hence 'tSáile' – an example of eclipsis."
+    "grammar": "Headland of the Sea | Cionn ("head", nominative singular, M, variant of ceann) + Sáile ("salt water or sea", genitive singular, M, Cionn causes úru in Sáile in Early Modern Irish, hence tSáile."
   }
 }
